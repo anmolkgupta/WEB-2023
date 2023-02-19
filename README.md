@@ -1,1 +1,1 @@
-# Dot-Batch
+# Dot-Batch Web Development Course
